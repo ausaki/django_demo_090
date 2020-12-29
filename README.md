@@ -1,0 +1,1 @@
+A Django project demo with Django version 0.90.
